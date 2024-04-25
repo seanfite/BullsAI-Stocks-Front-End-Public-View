@@ -1,10 +1,14 @@
 # BullsAI Stocks - Stock Research Tool
 
+[Visit BullsAI Stocks](https://bullsaistocks.com)
+
 [YouTube Desktop Version Walkthrough](https://youtu.be/9rwYyLRXsFk?si=px_7SKzLocYFweHs)
 
 [YouTube Mobile Version Walkthrough](https://youtu.be/AXchvc6vJTo?si=K3L1teNq0V7Wzvux)
 
 ## Introduction
+This repo details a very shortend version of the full web application. Uploading front end code only to preserve my work while giving some insight to my proof of work.
+
 BullsAI Stocks is a sophisticated stock research tool designed to assist investors in making informed decisions. This public version of the repository showcases portions of the project's codebase, focusing on functionality related to stock data retrieval, analysis, and presentation without revealing sensitive security details. The application features daily stock and news data updates, a machine learning-based stock picker, and a comprehensive web app with user authentication, payment processing, and interactive stock analysis.
 
 ## Features
